@@ -1,0 +1,1 @@
+In a Java compiler (such as eclipse, which I believe is available in the lab) create a new Java project and import (In eclipse: File > Import... > General > File System) the contents of the src folder into the source folder of your newly made project. Run the app by pressing the 'run' button (In eclipse: green play button at the top).
